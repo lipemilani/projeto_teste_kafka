@@ -10,4 +10,5 @@ $ pip install kafka-python
 $ docker-compose up -d
 
 rodar o producer: $ python3 producer.py
+
 rodar o consumer: $ python3 consumer.py
