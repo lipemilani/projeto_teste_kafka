@@ -4,6 +4,7 @@ Projeto criado para afins de estudos.
 
 # Para rodar:
 $ python3 -m venv venv
+
 $ pip install kafka-python
 
 $ docker-compose up --d
